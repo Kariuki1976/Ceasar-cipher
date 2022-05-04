@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dfd40f41-cebf-4c71-8816-dfd84ae8db1e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Descrypt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Enscrypt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/DescryptTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/EnscryptTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dictionaries/moringa.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/moringa.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Enscrypt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Enscrypt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/test/ceasar.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +43,10 @@
   <component name="ProjectId" id="28gJSewO8ucLBZTvCLS6pINN9Iq" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/test" />
     <property name="project.structure.last.edited" value="Modules" />
