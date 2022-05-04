@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dfd40f41-cebf-4c71-8816-dfd84ae8db1e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/DescryptTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/EnscryptTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/moringa.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/moringa.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Enscrypt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Enscrypt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/test/ceasar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/EnscryptTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/EnscryptTest.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
