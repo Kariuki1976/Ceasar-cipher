@@ -12,10 +12,7 @@ public class App {
             String choice = myScanner.nextLine();
 
            switch (choice) {
-               case "encrypt" -> {
-                    break;
-                    default:
-                        throw new IllegalStateException("Unexpected value: " + choice);
+               case "encrypt": {
                     System.out.println("To decrypt a message enter the message below");
                     String input = myScanner.nextLine();
                     System.out.println("============================");
@@ -29,7 +26,7 @@ public class App {
                     System.out.println("============================");
                     System.out.println("============================");
                 }
-                case "decrypt" -> {
+               case "decrypt": {
                     System.out.println("To decrypt a message enter the message below");
                     String seam = myScanner.nextLine();
                     System.out.println("============================");
@@ -43,8 +40,8 @@ public class App {
                     System.out.println("============================");
                     System.out.println("============================");
                 }
-                case "exit" -> runCipher = false;
-
+               case "exit":runCipher = false;
+               break;
             }
         }
     }

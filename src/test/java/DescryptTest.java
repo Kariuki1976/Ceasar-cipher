@@ -7,7 +7,7 @@ class DecryptTest {
     @Test
     public void runDecrypt_instantiates(){
         Descrypt testDecrypt = new Descrypt("!obnf", 1);
-        assertEquals(true, testDecrypt instanceof Decrypt);
+        assertEquals(true, testDecrypt instanceof Descrypt);
     }
 
     @Test
